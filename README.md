@@ -13,9 +13,11 @@
 ---
 
 ## 📝 Project Information
-<details>
+
 ## DhakaFC | Project 1
+<details>
 DhakaFC is a responsive fast food website, lets you order noodles, burgers, chicken, and more from home. Our UI makes ordering your favorite foods simple.
+
 ## Technology
 
 **Client:** HTML5, CSS3, JS
