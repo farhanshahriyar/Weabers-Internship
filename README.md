@@ -16,13 +16,13 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Project Information
 
-- [About](#about)
-- [How Works](#work)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Built Using](#built_using)
+- [1](#DhakaFC)
+- [2](#Foodies)
+- [3](#Bazar Lagbe?)
+- [4](#Delivery)
+- [5](#Venture)
 - [Authors](#authors)
 
 
@@ -78,3 +78,9 @@ Venture Shop web app is a React-based e-commerce site featuring anonymous login,
 ## Github
 
 - [@Project 5](https://github.com/farhanshahriyar/Venture-Shop)
+
+## Authors
+
+- [@farhanshahriyar](https://github.com/farhanshahriyar)
+
+
