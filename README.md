@@ -11,6 +11,8 @@
 <h3 align="center">Weabers Internship</h3>
 
 ---
+<p align="center">Weabers is focused on product automation and cloud computing. They are a product strategy development and consultancy studio where team members are working to transform ideas into future-proof digital experiences. They are also serving startups and enterprises to create their online experience in a more structured way. They are currently running their operation in more than 6 countries world-wide including 3 physical offices respectively in Toronto(Canada), New York(USA) and Dhaka(Bangladesh)</p>
+
 
 ## 📝 Project Information
 
