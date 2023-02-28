@@ -13,15 +13,6 @@
 ---
 
 ## 📝 Project Information
-
-- [DhakaFC](#DhakaFC)
-- [Foodies](#Foodies)
-- [Bazar Lagbe?](#Bazar Lagbe?)
-- [Delivery](#Delivery)
-- [Venture](#Venture)
-- [Authors](#authors)
-
-
 ## DhakaFC | Project 1
 DhakaFC is a responsive fast food website, lets you order noodles, burgers, chicken, and more from home. Our UI makes ordering your favorite foods simple.
 ## Technology
