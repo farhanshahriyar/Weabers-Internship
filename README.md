@@ -13,6 +13,7 @@
 ---
 
 ## 📝 Project Information
+<details>
 ## DhakaFC | Project 1
 DhakaFC is a responsive fast food website, lets you order noodles, burgers, chicken, and more from home. Our UI makes ordering your favorite foods simple.
 ## Technology
@@ -23,7 +24,7 @@ DhakaFC is a responsive fast food website, lets you order noodles, burgers, chic
 ## Github
 
 - [@Project 1](https://github.com/farhanshahriyar/dhakafc)
-
+</details>
 ## Foodies | Project 2
 Foodies is a site dedicated to quick meals. This shop has a wide selection of tasty salads and other dishes.
 ## Technology
