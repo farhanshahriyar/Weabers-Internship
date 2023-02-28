@@ -27,7 +27,10 @@ DhakaFC is a responsive fast food website, lets you order noodles, burgers, chic
 
 - [@Project 1](https://github.com/farhanshahriyar/dhakafc)
 </details>
+
+
 ## Foodies | Project 2
+<details>
 Foodies is a site dedicated to quick meals. This shop has a wide selection of tasty salads and other dishes.
 ## Technology
 
@@ -37,7 +40,8 @@ Foodies is a site dedicated to quick meals. This shop has a wide selection of ta
 ## Github
 
 - [@Project 2](https://github.com/farhanshahriyar/foodies)
-
+</details>
+  
 ## Bazar Lagbe? | Project 3
 Bazar Lagbe is a responsive web app for ordering fresh produce, poultry, and more from home. BazarLagbe's straightforward UI makes finding favorites easy.
 ## Technology
