@@ -8,13 +8,9 @@
 </p>
 
 
-<h3 align="center">Weabers Internship Projects</h3>
+<h3 align="center">Weabers Internship</h3>
 
 ---
-
-<p align="center">A React E Commerce Website
-    <br> 
-</p>
 
 ## 📝 Project Information
 
