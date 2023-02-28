@@ -1,3 +1,31 @@
+
+
+<p align="center">
+  <a href="" rel="noopener" align="center">
+   <img src="Weabers Logo.png"
+   alt="Project logo" align="center" >
+ </a>
+</p>
+
+
+<h3 align="center">Weabers Internship Projects</h3>
+
+---
+
+<p align="center">A React E Commerce Website
+    <br> 
+</p>
+
+## 📝 Table of Contents
+
+- [About](#about)
+- [How Works](#work)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Built Using](#built_using)
+- [Authors](#authors)
+
+
 ## DhakaFC | Project 1
 DhakaFC is a responsive fast food website, lets you order noodles, burgers, chicken, and more from home. Our UI makes ordering your favorite foods simple.
 ## Technology
