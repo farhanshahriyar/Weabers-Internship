@@ -14,11 +14,11 @@
 
 ## 📝 Project Information
 
-- [1](#DhakaFC)
-- [2](#Foodies)
-- [3](#Bazar Lagbe?)
-- [4](#Delivery)
-- [5](#Venture)
+- [DhakaFC](#DhakaFC)
+- [Foodies](#Foodies)
+- [Bazar Lagbe?](#Bazar Lagbe?)
+- [Delivery](#Delivery)
+- [Venture](#Venture)
 - [Authors](#authors)
 
 
